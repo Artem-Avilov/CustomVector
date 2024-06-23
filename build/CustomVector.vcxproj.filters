@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="G:\Programming\Learn C++\DZ_13_1\CustomVector\scr\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="G:\Programming\Learn C++\DZ_13_1\CustomVector\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{963751E2-4FFA-3723-9D40-75E6A4F8C692}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
