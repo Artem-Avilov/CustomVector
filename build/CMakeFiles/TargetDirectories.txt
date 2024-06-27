@@ -1,3 +1,0 @@
-G:/Programming/Learn C++/DZ_13_1/CustomVector/build/CMakeFiles/CustomVector.dir
-G:/Programming/Learn C++/DZ_13_1/CustomVector/build/CMakeFiles/ALL_BUILD.dir
-G:/Programming/Learn C++/DZ_13_1/CustomVector/build/CMakeFiles/ZERO_CHECK.dir
